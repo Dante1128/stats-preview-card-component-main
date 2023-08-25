@@ -1,0 +1,45 @@
+.card{
+    width: 1104px;
+    height: 446px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin-top: 176px;
+}
+.card header img{
+    height: 446px;
+    width: 542px;
+}
+.card header div{
+    height: 446px;
+    width: 542px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 6px;
+}
+.titulo{
+    text-align: left    ;
+    display: flex;
+    flex-direction: column;
+}
+.stat{
+
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+p{
+    text-align: left;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+
+h1{
+    font-size: 27px;
+}
+
+
+
+
+
